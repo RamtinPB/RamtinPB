@@ -1,5 +1,6 @@
 # 💫 About Me:
-🤝 I’m looking for help with<br>Learning more about cybernetics, advanced prosthetics, and technologies that support human mobility and rehabilitation. I’m especially interested in connecting with people working on humanitarian applications of robotics and assistive tech.<br><br>🌱 I’m currently learning<br>Full-stack development.<br><br>💬 Ask me about<br>Frontend development (React, Tailwind), integrating APIs, or general concepts in computer engineering. I’m also always up for a good conversation about philosophy, psychology, or history.<br><br>⚡ Fun fact<br>I find peace in stoic philosophy and am passionate about creating tech that serves humanitarian goals—especially in the field of mobility and rehabilitation.
+🌱 I’m currently learning<br>Full-stack development.<br><br>
+⚡ Fun fact<br>I find peace in stoic philosophy and am passionate about creating tech that serves humanitarian goals—especially in the field of mobility and rehabilitation.
 
 
 ## 🌐 Socials:
