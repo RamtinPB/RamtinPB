@@ -1,8 +1,3 @@
-# 💫 About Me:
-🌱 I’m currently learning<br>Full-stack development.<br><br>
-⚡ Fun fact<br>I find peace in stoic philosophy and am passionate about creating tech that serves humanitarian goals—especially in the field of mobility and rehabilitation.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ramtin-panahi-bazaz-188866275) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramtin.panahibazaz@gmail.com) 
 
